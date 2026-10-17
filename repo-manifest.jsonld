@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/open-mmlab/mmdetection/commit/cfd5d3a985b0249de009b67d04f37263e11cdf3d",
       "git:hexsha": "cfd5d3a985b0249de009b67d04f37263e11cdf3d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T15:32:34.848179+00:00"
     },
     {
       "@id": "https://repolex.ai/r/open-mmlab/mmdetection/commit/6d83f890132e2148f3e5d2d00ce07c8740b8ebeb",
